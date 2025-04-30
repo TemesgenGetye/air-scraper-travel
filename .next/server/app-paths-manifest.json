@@ -1,0 +1,6 @@
+{
+  "/api/airports/route": "app/api/airports/route.js",
+  "/flights/search/page": "app/flights/search/page.js",
+  "/flights/details/[id]/page": "app/flights/details/[id]/page.js",
+  "/page": "app/page.js"
+}
