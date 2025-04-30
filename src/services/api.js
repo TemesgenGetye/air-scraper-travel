@@ -1,8 +1,6 @@
 // API service for making requests to Sky Scrapper API
 
-const RAPIDAPI_KEY =
-  import.meta.env.VITE_RAPIDAPI_KEY ||
-  "78739647c4msh1ee7b6e93ef7321p1e5372jsn497e89ec1dd4";
+const RAPIDAPI_KEY = "78739647c4msh1ee7b6e93ef7321p1e5372jsn497e89ec1dd4";
 const RAPIDAPI_HOST = "sky-scrapper.p.rapidapi.com";
 
 const API_BASE_URL = "https://sky-scrapper.p.rapidapi.com/api/v1";
